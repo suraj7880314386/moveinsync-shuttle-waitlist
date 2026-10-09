@@ -1,0 +1,14 @@
+target/
+data/
+backups/
+*.log
+.vscode/
+.idea/
+*.iml
+.DS_Store
+
+target/
+data/
+backups/
+.vscode/
+
